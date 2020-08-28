@@ -1,7 +1,8 @@
-Origin: repo Majed alsaadi 
-Label: Alsaadi 
+Origin: Repo Name (Long)
+Label: Repo Name (Short)
 Suite: stable
 Version: 1.0
+Codename: tangelo
 Architectures: iphoneos-arm
 Components: main
-Description: repo
+Description: Repo Description

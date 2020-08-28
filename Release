@@ -1,0 +1,7 @@
+Origin: repo Majed alsaadi 
+Label: Alsaadi 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: repo
